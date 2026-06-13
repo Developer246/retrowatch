@@ -1,0 +1,66 @@
+# Arduino
+build/
+*.elf
+*.hex
+*.o
+
+# Android
+.gradle/
+.idea/
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.classpath
+.project
+.cproject
+local.properties
+proguard-mappings.txt
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# C/C++
+*.o
+*.a
+*.so
+*.out
+Debug/
+Release/
+*.depend
+*.layout
+
+# IDE
+.vscode/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
+target/
+
+# Dependencies
+lib/
+libs/
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*~
